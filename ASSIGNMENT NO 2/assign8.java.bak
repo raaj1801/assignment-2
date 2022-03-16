@@ -1,0 +1,10 @@
+class assign8
+{
+public static void main(String args[])
+{
+char j;
+char a;
+char v;
+System.out.println("    j    a   v  a ");
+}
+}

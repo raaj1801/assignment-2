@@ -1,0 +1,15 @@
+class assign12
+{
+public static void main(String args [])
+{
+int x;
+x = 25;
+int y;
+y=36;
+int z;
+z=45;
+double d;
+d = ((x+y+z)/3);
+System.out.println(" AVERAGE OF 3 NUMBERS IS = " +d);
+}
+}
